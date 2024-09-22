@@ -1,0 +1,13 @@
+img {
+    height: 200px;
+    float: left;
+    width: 50%;
+}
+
+.product {
+    border: solid 2px;
+    overflow: auto;
+}
+pre {
+    float: right;
+}

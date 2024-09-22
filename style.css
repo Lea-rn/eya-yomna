@@ -1,0 +1,32 @@
+body {
+    margin: 0px;
+}
+
+header {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+main {
+    height: 500px;
+    background-color: orange;
+    width: 70%;
+    float: left;
+}
+
+section{
+    height: 500px;
+    background-color: blueviolet;
+    width: 30% ;
+    float: right;
+}
+
+footer {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    clear: both;
+
+}

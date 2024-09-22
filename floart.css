@@ -1,0 +1,67 @@
+body {
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+
+
+header {
+    background-color: rgb(14, 14, 104);
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+
+}
+
+.cover {
+background-image: url(./im2.jpg);
+height: 600px;
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
+}
+
+.side {
+    background-color: orangered;
+    width: 30%;
+    height: 600px;
+    float: left;
+}
+main {
+    background-color: rgb(16, 16, 91);
+
+    height: 60%;
+}
+
+.banner{
+    background-color: rgb(156, 211, 29);
+   
+    height: 20%;
+}
+.pub{
+    background-color: rgb(29, 211, 65);
+   
+    height: 20%; 
+}
+
+footer {
+    background-color: rgb(14, 14, 104);
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    clear: both;
+}
+
+.parent {
+    float: right;
+    height: 600px;
+    width: 70%;
+}
+
+.pub-img {
+    height: 100%;
+    float: right;
+    width: 30%;
+}
